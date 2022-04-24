@@ -1,6 +1,6 @@
 {
-  "name": "a05",
-  "version": "0.5.0",
+  "name": "human-interfaces",
+  "version": "0.0.1",
   "description": "Coinserver API that also serves a single page HTML/CSS/JS browser-based interface.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "coinserver",
     "API"
   ],
-  "author": "YOU",
+  "author": "Stefano Dongowski",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a05-johnmar3/issues"
