@@ -51,7 +51,6 @@ if (debug) {
     })
 }
 
-console.log(log)
 if (log != 'false') {
     app.use( (req, res, next) => {
         let logdata = {
