@@ -36,7 +36,7 @@ server.js [options]
 }
 
 const server = app.listen(port, () => {
-    console.log(`App is running on port ${port}`)
+    console.log(`<!DOCTYPE html>`)
 })
 
 if (debug) {
